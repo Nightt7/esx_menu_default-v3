@@ -122,11 +122,3 @@
 	color: white;
 	animation: fadeIn 5s;
 }
-
-.logo{
-	width: 4vw;
-	position: absolute;
-	right: -1vw;
-	top: -2vw;
-	transform: rotate(-15deg);
-}
