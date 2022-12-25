@@ -2,7 +2,6 @@
 	let MenuTpl =
 		'<div id="menu_{{_namespace}}_{{_name}}" class="menu{{#align}} align-{{align}}{{/align}}">' +
 			'<div class="head"><span>{{{title}}}</span></div>' +
-				'<hr class="hr">'+
 				'<div class="menu-items">' +
 					'{{#elements}}' +
 						'<div class="menu-item {{#selected}}selected{{/selected}}">' +
